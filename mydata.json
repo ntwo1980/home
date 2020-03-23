@@ -1,0 +1,8 @@
+[
+  {
+    name: "avxhm",
+    url: "^https?://avxhm\.se",
+    nextLink: "//a[@class='next']",
+    pageElement: "//div[@class='container']"
+  }
+]
